@@ -51,5 +51,9 @@ end
 
 def 
 using_delete_at(arr, int)
+<<<<<<< HEAD
 return arr.delete_at(int)  
+=======
+arr.delete(int) 
+>>>>>>> 153fd00830413a22c118e1a93e99ce823b0ece66
 end
